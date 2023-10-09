@@ -36,8 +36,6 @@ Mail sent to company - https://github.com/pi-mishra/KPMG_internship/blob/main/KP
 
 Python code for analysis - https://github.com/pi-mishra/KPMG_internship/blob/main/KPMG_task_1.ipynb
 
-# Task 2: Data Insights
-
 # Certificate
 ![image](https://github.com/pi-mishra/KPMG_internship/assets/102457813/0601fc56-447b-4ab2-a12c-0d348c7e0b8c)
 
