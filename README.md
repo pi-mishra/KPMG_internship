@@ -10,9 +10,6 @@
 
    Skills Learned - ANALYTICAL DASHBOARD CREATION, CUSTOMER SEGMENTATION, DATA ANALYTICS, DATA DASHBOARDS, DATA DRIVEN PRESENTATIONS, DATA QUALITY ANALYSIS, DATA VISUALISATIONS, PRESENTATIONS
 
-# Task 1 - Data Quality Assesment
-
-
 We have been shared 3 data sheet (Transaction, Customer Address, Customer Demographic). The Data quality assessment is shared below.
 
 | Sheet Name    | Total Number of columns | Total Number of records | Unique customer_id |
